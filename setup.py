@@ -89,7 +89,7 @@ setup(
     description=description,
     long_description=long_description,
     long_description_content_type="text/markdown",
-    license="GNU LGPL",
+    license_expression="LGPL-2.1-or-later",
     keywords="test unittest doctest automatic discovery",
     url="https://github.com/mdmintz/pynose",
     project_urls={
@@ -106,8 +106,6 @@ setup(
         "Environment :: MacOS X",
         "Environment :: Win32 (MS Windows)",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU Library or "
-        "Lesser General Public License (LGPL)",
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
